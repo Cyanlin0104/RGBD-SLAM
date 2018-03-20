@@ -1,0 +1,13 @@
+%YAML:1.0
+---
+images:
+   - "../data/calib/cal10.png"
+   - "../data/calib/cal1.png"
+   - "../data/calib/cal2.png"
+   - "../data/calib/cal3.png"
+   - "../data/calib/cal4.png"
+   - "../data/calib/cal5.png"
+   - "../data/calib/cal6.png"
+   - "../data/calib/cal7.png"
+   - "../data/calib/cal8.png"
+   - "../data/calib/cal9.png"
